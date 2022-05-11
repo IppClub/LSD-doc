@@ -71,3 +71,8 @@ html_theme_options = {
 }
 
 html_logo = "img/logo.png"
+
+myst_enable_extensions = [
+    "html_image",
+    "tasklist",
+]

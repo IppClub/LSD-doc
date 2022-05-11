@@ -12,12 +12,12 @@
    summary/demo
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 创作《灵数奇缘》
    :name: sec-project
 
    gamedoc/project-description
-   gamedoc/characters
+   gamedoc/characters/index
    gamedoc/story
    gamedoc/theme
    gamedoc/story-scripting/index
