@@ -3,7 +3,7 @@
 
 |设定项|内容|
 |:-:|:-|
-|Q版|<img src="/img/Q/duck-typing.png" alt="达可·太平（Q版）" height="104px">|
+|Q版|<img src="/img/Q/duck-typing.png" alt="达可·太平（Q版）" height="150px"><p>画师：战国Donuts</p>|
 |名字|达可·太平（Duck Typing）|
 |年龄|3岁（机器人产品面世时间）|
 |性别|无性别|

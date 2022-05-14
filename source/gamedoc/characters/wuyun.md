@@ -1,9 +1,17 @@
 # 乌云
 > 洞悉两个世界的反叛者
 
+```{eval-rst}
+.. figure:: /img/design/wuyun-d.jpg
+   :align: center
+   :alt: 乌云（人设）
+
+   乌云人设（画师：周大西）
+```
+
 |设定项|内容|
 |:-:|:-|
-|Q版|<img src="/img/Q/Q-wuyun.png" alt="乌云（Q版）" height="235px">|
+|Q版|<img src="/img/Q/Q-wuyun.png" alt="乌云（Q版）" height="235px"><p>画师：双程</p>|
 |名字|乌云，英文名：Moody Cloud，（在蒙古语中意为智慧）|
 |年龄|35|
 |种族|AI/人类|
@@ -27,5 +35,5 @@
 |为什么|担心娱乐公司作恶的企图没有人可以对抗。|
 |最强长处|谋划，射击|
 |弱点|自己关心的人|
-|立绘|![乌云（立绘）](/img/figure/wuyun.png)|
+|立绘|![乌云（立绘）](/img/figure/wuyun.png)<p>画师：杏杏</p>|
 |文案|嗲、瑾|

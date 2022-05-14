@@ -1,9 +1,24 @@
 # 玉
 > 身负众望却遁入修行之道的公主
 
+```{eval-rst}
+.. figure:: /img/design/yu-buddha-d.jpg
+   :align: center
+   :alt: 佛陀机器人（设定）
+
+   佛陀机器人设定（画师：周大西）
+```
+```{eval-rst}
+.. figure:: /img/design/yu-d.jpg
+   :align: center
+   :alt: 玉（人设）
+
+   玉的人设（画师：周大西）
+```
+
 |设定项|内容|
 |:-:|:-|
-|Q版|<img src="/img/Q/Q-yu.png" alt="玉（Q版）" height="203px">|
+|Q版|<img src="/img/Q/Q-yu.png" alt="玉（Q版）" height="203px"><p>画师：双程</p>|
 |名字|玉 YU|
 |年龄|女|
 |种族|AI|
@@ -25,5 +40,5 @@
 |家族传统|无|
 |长处|她拥有自主意识|
 |弱点| 谁得到她就可以得到控制游戏的能力，所以也为她惹来了不少的麻烦。|
-|立绘|![玉（立绘）](/img/figure/yu.png)|
+|立绘|![玉（立绘）](/img/figure/yu.png)<p>画师：玉不修</p>|
 |文案|嗲、瑾|
