@@ -8,11 +8,67 @@
 &emsp;&emsp;主角作为教官服役的幽兰草军事学院（幽兰草意喻有才能的人在不为人知的环境里也会默默努力影响改变着世界，从不为自己的处境而哀叹）位于”人类之笼“的地下城市边缘。该军事学院设施主要包括指挥所，模拟训练场、后勤基地、学院宿舍和备战室等多个室内建筑场所。主角和学员经常活动的区域主要是备战室和训练场。按照学院的要求，学员们除了休息时间和参与训练的时间以外，都应该尽量出现在备战室，随时准备接收指挥所安排的战斗任务，以及接收同时作为战场指挥官的学院教官下达的指示。
 
 ```{eval-rst}
+.. figure:: /img/scene/base-launch-d.jpg
+   :align: center
+   :alt: 军事学院备战室
+
+   军事学院备战室设计（概念设计：Arthas.W）
+```
+
+```{eval-rst}
+.. figure:: /img/scene/base-training-d1.jpg
+   :align: center
+   :alt: 军事学院训练室
+
+   军事学院训练室设计（概念设计：Arthas.W）
+```
+
+```{eval-rst}
+.. figure:: /img/scene/base-training-d.jpg
+   :align: center
+   :alt: 军事学院训练室
+
+   军事学院训练室物件设计（概念设计：Arthas.W）
+```
+
+```{eval-rst}
+.. figure:: /img/scene/base-hd-d.jpg
+   :align: center
+   :alt: 军事学院指挥室
+
+   军事学院指挥室设计（概念设计：Arthas.W）
+```
+
+```{eval-rst}
+.. figure:: /img/scene/base-rest-d.jpg
+   :align: center
+   :alt: 军事学院休息室
+
+   军事学院休息室设计（概念设计：Arthas.W）
+```
+
+```{eval-rst}
+.. figure:: /img/scene/base-rest-d1.jpg
+   :align: center
+   :alt: 军事学院休息室
+
+   军事学院指挥室和休息室物件设计（概念设计：Arthas.W）
+```
+
+```{eval-rst}
+.. figure:: /img/scene/base-rd-d.jpg
+   :align: center
+   :alt: 军事学院研发室
+
+   军事学院研发室设计（概念设计：Arthas.W）
+```
+
+```{eval-rst}
 .. figure:: /img/scene/base-design.jpg
    :align: center
    :alt: 军事学院整体结构
 
-   军事学院整体结构（概念设计：阿老师）
+   军事学院整体结构（概念设计：Arthas.W）
 ```
 
 ### 备战室（室内场景）
@@ -24,7 +80,7 @@
    :align: center
    :alt: 备战室
 
-   备战室（画师：软糖工作室）
+   备战室（画师：桀）
 ```
 
 ### 虚拟训练场（室内场景）
@@ -36,14 +92,14 @@
    :align: center
    :alt: 训练室
 
-   训练室（画师：软糖工作室）
+   训练室（画师：桀）
 ```
 ```{eval-rst}
 .. figure:: /img/scene/vr-training.jpg
    :align: center
    :alt: 虚拟训练场
 
-   虚拟训练场（画师：软糖工作室）
+   虚拟训练场（画师：桀）
 ```
 
 ### 指挥室（室内场景）
@@ -55,7 +111,7 @@
    :align: center
    :alt: 指挥室
 
-   指挥室（画师：软糖工作室）
+   指挥室（画师：桀）
 ```
 
 ### 武器研发实验室（室内场景）
@@ -67,7 +123,7 @@
    :align: center
    :alt: 武器研发实验室
 
-   武器研发实验室（画师：软糖工作室）
+   武器研发实验室（画师：桀）
 ```
 
 ### 休息间（室内场景）
@@ -79,7 +135,7 @@
    :align: center
    :alt: 休息间
 
-   休息间（画师：软糖工作室）
+   休息间（画师：桀）
 ```
 
 ## 二、人类遗迹（游戏世界）
@@ -98,7 +154,7 @@
    :align: center
    :alt: 遗弃城市
 
-   遗弃城市（画师：软糖工作室）
+   遗弃城市（画师：桀）
 ```
 
 ### 废弃工厂（室外场景）
@@ -108,7 +164,7 @@
    :align: center
    :alt: 废弃工厂
 
-   废弃工厂（画师：软糖工作室）
+   废弃工厂（画师：桀）
 ```
 
 ### 极夜冰封之城（室外场景）
@@ -120,7 +176,7 @@
    :align: center
    :alt: 冰封之城
 
-   冰封之城（画师：软糖工作室）
+   冰封之城（画师：桀）
 ```
 
 ## 三、世界地铁（游戏世界）
@@ -136,7 +192,7 @@
    :align: center
    :alt: 地铁站台
 
-   地铁站台（画师：软糖工作室）
+   地铁站台（画师：桀）
 ```
 
 ### 废弃地铁车辆内部（室内场景）
@@ -146,14 +202,14 @@
    :align: center
    :alt: 废弃地铁（地上运行）
 
-   废弃地铁（地上运行）（画师：软糖工作室）
+   废弃地铁（地上运行）（画师：桀）
 ```
 ```{eval-rst}
 .. figure:: /img/scene/metro-dark.jpg
    :align: center
    :alt: 废弃地铁（地上运行）
 
-   废弃地铁（地下运行）（画师：软糖工作室）
+   废弃地铁（地下运行）（画师：桀）
 ```
 
 ## 四、脆弱的世外桃源（游戏世界）
@@ -169,7 +225,7 @@
    :align: center
    :alt: 脆弱的世外桃源
 
-   脆弱的世外桃源（画师：软糖工作室）
+   脆弱的世外桃源（画师：桀）
 ```
 
 ## 五、主角的居所（现实世界）

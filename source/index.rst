@@ -35,4 +35,5 @@
    community/assets
    community/licencing
    community/funding
-   community/creators
+   community/contributors
+
