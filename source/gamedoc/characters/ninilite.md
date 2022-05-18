@@ -11,7 +11,7 @@
 
 |设定项|内容|
 |:-:|:-|
-|Q版|<img src="/img/Q/Q-ninilite.png" alt="妮妮莉特（Q版）" height="187px"><p>画师：双程</p>|
+|Q版|<img src="/img/Q/Q-ninilite.png" alt="妮妮莉特（Q版）" height="187px"><br>*画师：双程*|
 |名字|妮妮莉特|
 |年龄|15|
 |种族|AI/后人类|
@@ -34,5 +34,5 @@
 |为什么|因为|
 |最强长处|搜集情报，给予玩家建议|
 |弱点|被设置了程序后门，AI会被游戏公司随意侵入和掌控|
-|立绘|![妮妮莉特（立绘）](/img/figure/ninilite.png)<p>画师：蓂</p>|
+|立绘|![妮妮莉特（立绘）](/img/figure/ninilite.png)<br>*画师：蓂*|
 |文案|嗲、瑾|

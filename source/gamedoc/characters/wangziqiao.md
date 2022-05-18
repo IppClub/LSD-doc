@@ -11,7 +11,7 @@
 
 |设定项|内容|
 |:-:|:-|
-|Q版|<img src="/img/Q/Q-wangziqiao.png" alt="王子乔（Q版）" height="184px"><p>画师：双程</p>|
+|Q版|<img src="/img/Q/Q-wangziqiao.png" alt="王子乔（Q版）" height="184px"><br>*画师：双程*|
 |名字|王子乔（“仙人王子乔，难可与等期”，借喻一个压抑自我的人最终获得了解放和救赎）|
 |年龄|21|
 |种族|人类|
@@ -35,6 +35,6 @@
 |为什么|即使面对恶行的发生，他始终相信程序正义。|
 |最强长处|守时，严格遵循纪律。|
 |弱点|乌云|
-|立绘|![王子乔（立绘）](/img/figure/wangziqiao.png)<p>画师：周大西</p>|
-|立绘|![王子乔（更新立绘）](/img/figure/wangziqiao-update.png)<p>画师：杏杏</p>|
+|立绘|![王子乔（立绘）](/img/figure/wangziqiao.png)<br>*画师：周大西*|
+|立绘|![王子乔（更新立绘）](/img/figure/wangziqiao-update.png)<br>*画师：杏杏*|
 |文案|嗲、瑾|
