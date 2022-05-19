@@ -165,4 +165,5 @@
 
    setting/scene
    setting/monster
+   setting/machine
 ```

@@ -6,7 +6,7 @@
 
 ## 制作人
 
-* 于灵
+* [于灵](/gamedoc/characters/v-producer)
 
 ## 文案
 
