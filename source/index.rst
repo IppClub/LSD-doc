@@ -27,7 +27,7 @@
    gamedoc/technical-description/index
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 参与《灵数奇缘》
    :name: sec-community
 
@@ -35,4 +35,5 @@
    community/assets
    community/licencing
    community/funding
-   community/creators
+   community/contributors
+

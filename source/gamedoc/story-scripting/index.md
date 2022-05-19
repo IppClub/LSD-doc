@@ -1,6 +1,6 @@
-剧本
-====
+# 剧本
 
+```{eval-rst}
 .. toctree::
    :maxdepth: 1
    :caption: 剧本文案
@@ -8,3 +8,4 @@
 
    game0/index
    other
+```

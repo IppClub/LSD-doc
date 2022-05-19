@@ -18,8 +18,8 @@
 
 |设定项|内容|
 |:-:|:-|
-|Q版（姐姐）|<img src="/img/Q/Q-vika.png" alt="Vika（Q版）" height="170px"><p>画师：双程</p>|
-|Q版（妹妹）|<img src="/img/Q/Q-vivi.png" alt="Vivi（Q版）" height="170px"><p>画师：双程</p>|
+|Q版（姐姐）|<img src="/img/Q/Q-vika.png" alt="Vika（Q版）" height="170px"><br>*画师：双程*|
+|Q版（妹妹）|<img src="/img/Q/Q-vivi.png" alt="Vivi（Q版）" height="170px"><br>*画师：双程*|
 |名字|姐姐：Vika，妹妹：Vivi|
 |年龄|12岁|
 |种族|AI|
@@ -42,5 +42,5 @@
 |最害怕|姐姐被游戏世界回收|
 |为什么|姐姐是一个没人能解释的BUG（幽灵）|
 |最强长处|对彼此的爱。流浪两年之后，由于出色的战斗经验和姐姐的高智商。破格成为军事学院的领导者。二人来军事学院视察，加入主角团的战斗。与政府人员大交道很厉害。喜欢打官腔。但因为是小孩子，反差萌|
-|立绘|![维卡双子（立绘）](/img/figure/vikagirls.png)<p>画师：周大西</p>|
+|立绘|![维卡双子（立绘）](/img/figure/vikagirls.png)<br>*画师：周大西*|
 |文案|嗲|

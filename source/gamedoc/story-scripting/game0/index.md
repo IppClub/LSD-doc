@@ -1,6 +1,6 @@
-Game 0
-======
+# Game 0 剧本
 
+```{eval-rst}
 .. toctree::
    :maxdepth: 1
    :caption: 游戏文案策划
@@ -10,3 +10,4 @@ Game 0
    game-summary
    main-character
    dialog-script
+```
