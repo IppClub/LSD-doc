@@ -12,4 +12,9 @@
    cde
    data-collection
    3-ml-thoughts
+   battle-field
+   battle-experience
+   battle-experience5-detail
+   demo-design
+   battle-sys-d
 ```
