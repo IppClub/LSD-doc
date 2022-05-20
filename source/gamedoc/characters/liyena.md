@@ -2,7 +2,7 @@
 > 富有正义感的不良少女
 
 ```{eval-rst}
-.. figure:: /img/design/liyena-d.jpg
+.. figure:: /img/design/character/liyena-d.jpg
    :align: center
    :alt: 李叶那（设定）
 

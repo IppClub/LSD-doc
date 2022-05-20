@@ -72,14 +72,14 @@
 &emsp;&emsp;于是怀着众人愿望而生，受到神灵感召而生的机械守护者保护的，圣洁又身怀异能的孔雀公主终于被重新设计了出来。
 
 ```{eval-rst}
-.. figure:: /img/design/yu-d.jpg
+.. figure:: /img/design/character/yu-d.jpg
    :align: center
    :alt: 玉 v3
 
    最终版玉的人设（by：周大西）
 ```
 ```{eval-rst}
-.. figure:: /img/design/yu-buddha-d.jpg
+.. figure:: /img/design/character/yu-buddha-d.jpg
    :align: center
    :alt: 玉 v3 佛陀
 

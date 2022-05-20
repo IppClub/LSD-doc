@@ -2,14 +2,14 @@
 > 身世曲折的天才政府要员萝莉姐妹
 
 ```{eval-rst}
-.. figure:: /img/design/vika-d.jpg
+.. figure:: /img/design/character/vika-d.jpg
    :align: center
    :alt: Vika（人设）
 
    Vika人设（画师：周大西）
 ```
 ```{eval-rst}
-.. figure:: /img/design/vivi-d.jpg
+.. figure:: /img/design/character/vivi-d.jpg
    :align: center
    :alt: Vivi（人设）
 

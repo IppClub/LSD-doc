@@ -31,25 +31,25 @@
 	&emsp;&emsp;⼸⼿⼀次射出3只箭。有⼀定的AOE能⼒。  
 	&emsp;&emsp;玩家在操作时，可以选择不同的射箭⽅向。因此得到偏直线的箭，或者⾼抛物线的箭。因此可以实现打到后排、AOE伤害等效果。  
 	&emsp;&emsp;⼸⼿的⾏为，只有左右移动和攻击。
-	<img src="/img/design/battle1.png" alt="弓手示意1" width="400px" align="center">
-	<img src="/img/design/battle2.png" alt="弓手示意2" width="400px" align="center">
+	<img src="/img/design/gameplay/battle1.png" alt="弓手示意1" width="400px" align="center">
+	<img src="/img/design/gameplay/battle2.png" alt="弓手示意2" width="400px" align="center">
 	* 2.盾⼭  
 	&emsp;&emsp;盾⼭的作⽤是作为前排，进⾏防御。  
 	&emsp;&emsp;默认情况下，就⼀直举着盾牌进⾏防御。远程弹道技能，碰到盾牌会停⽌前进，并减少50%的伤害（因为远程弹道技能只能打1个⼈，这样就算打到盾⼭了，⾃然就停⽌了。好像不⽤加什么设定。）。近战技能的伤害范围，如果和盾牌的范围有重合，则减少50%伤害。  
 	&emsp;&emsp;还给盾⼭增加了⼀个技能，盾击，会把敌⼈击退。盾击时就没有防御了。能达成⼀种军队推进的效果。（加这个技能，主要是觉得⼀直举着盾防御，太⽆聊了）  
 	盾⼭能做3件事，左右移动，举盾防御、盾击。
-	<img src="/img/design/battle3.png" alt="盾⼭示意1" width="130px" align="center">
-	<img src="/img/design/battle4.png" alt="盾⼭示意2" width="200px" align="center">
+	<img src="/img/design/gameplay/battle3.png" alt="盾⼭示意1" width="130px" align="center">
+	<img src="/img/design/gameplay/battle4.png" alt="盾⼭示意2" width="200px" align="center">
 	* 3.狂战⼠  
 	&emsp;&emsp;狂战⼠的作⽤是破坏阵型。  
 	&emsp;&emsp;狂战⼠有⼀个跳跃技能，因此能越过前排，打到后排。 狂战⼠能做3件事，左右移动，跳跃、攻击。
-	<img src="/img/design/battle5.png" alt="狂战⼠示意" width="350px" align="center">
+	<img src="/img/design/gameplay/battle5.png" alt="狂战⼠示意" width="350px" align="center">
 
 * 敌⼈  
 &emsp;&emsp;敌⼈还没都设计好。感觉现在的战⽃模式需要⼀些⼩怪，所以先设计了2种⼩怪。  
 &emsp;&emsp;第⼀种是垃圾⼸⼿，只能射出1只箭，并且⼀定是向前的。  
 &emsp;&emsp;第⼆种是垃圾战⼠，会⼀直向前跑，直到碰到敌⼈，然后就释放攻击技能。
-<img src="/img/design/battle6.png" alt="敌⼈示意1" width="200px" align="center">
+<img src="/img/design/gameplay/battle6.png" alt="敌⼈示意1" width="200px" align="center">
 
 * 战场调度  
 &emsp;&emsp;战场调度，第⼀个是上场，选择位置。这个是方案5中已经设计的。  
