@@ -3,6 +3,8 @@
 ```{eval-rst}
 .. toctree::
    :maxdepth: 1
-   :caption: 游戏文案策划
+   :caption: 游戏文案
    :name: sec-game0-story-scripting
+   
+   opening-pv
 ```
