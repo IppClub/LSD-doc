@@ -32,7 +32,7 @@
    :name: sec-community
 
    community/activity
-   community/assets
+   community/open-assets
    community/licencing
    community/funding
    community/contributors
