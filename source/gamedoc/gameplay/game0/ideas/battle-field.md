@@ -30,7 +30,7 @@
 * 玩家要合理的花费能量，获得相对较多的buff，并且保留⾜够的能量给boss战。
 
 ```{eval-rst}
-.. figure:: /img/design/battle-field.png
+.. figure:: /img/design/gameplay/battle-field.png
    :align: center
    :alt: 能量管理的机制
 
@@ -41,7 +41,7 @@
 * 需要考虑⽤尽可能少的战⽃次数，获得最多的buff，并且到达boss处
 
 ```{eval-rst}
-.. figure:: /img/design/battle-field1.png
+.. figure:: /img/design/gameplay/battle-field1.png
    :align: center
    :alt: 关卡流程示意
 

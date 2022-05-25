@@ -2,14 +2,14 @@
 > 身负众望却遁入修行之道的公主
 
 ```{eval-rst}
-.. figure:: /img/design/yu-buddha-d.jpg
+.. figure:: /img/design/character/yu-buddha-d.jpg
    :align: center
    :alt: 佛陀机器人（设定）
 
    佛陀机器人设定（画师：周大西）
 ```
 ```{eval-rst}
-.. figure:: /img/design/yu-d.jpg
+.. figure:: /img/design/character/yu-d.jpg
    :align: center
    :alt: 玉（人设）
 

@@ -9,5 +9,5 @@
    game-settings
    game-summary
    main-character
-   dialog-script
+   dialogue-script
 ```

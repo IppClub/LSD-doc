@@ -7,7 +7,7 @@
 ## 训练数据采集机制
 
 ```{eval-rst}
-.. figure:: /img/design/data-collection.png
+.. figure:: /img/design/gameplay/data-collection.jpg
    :align: center
    :alt: 训练数据采集机制
 
@@ -25,8 +25,8 @@
 	* 正在执⾏的动作经过的时间
 	* 上⼀个执⾏的动作类型
 	* 与训练单位的⽔平距离
-<br>
-<br>
+	<br>
+	<br>
 * 游戏⻆⾊⾃⾝的属性
 	* 当前的⽣命值
 	* 当前的体⼒值（⽤于执⾏特定动作消耗）

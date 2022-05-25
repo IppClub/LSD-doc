@@ -2,7 +2,7 @@
 > 洞悉两个世界的反叛者
 
 ```{eval-rst}
-.. figure:: /img/design/wuyun-d.jpg
+.. figure:: /img/design/character/wuyun-d.jpg
    :align: center
    :alt: 乌云（人设）
 

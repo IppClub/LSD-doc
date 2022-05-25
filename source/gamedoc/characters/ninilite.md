@@ -2,7 +2,7 @@
 > 温柔热心的游戏领航员（职业顾问）
 
 ```{eval-rst}
-.. figure:: /img/design/ninilite-d.jpg
+.. figure:: /img/design/character/ninilite-d.jpg
    :align: center
    :alt: 妮妮莉特（人设）
 

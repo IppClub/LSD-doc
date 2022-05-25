@@ -2,7 +2,7 @@
 > 世界观崩塌的秩序维护者
 
 ```{eval-rst}
-.. figure:: /img/design/wangziqiao-d.jpg
+.. figure:: /img/design/character/wangziqiao-d.jpg
    :align: center
    :alt: 王子乔（人设）
 

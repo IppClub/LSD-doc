@@ -6,6 +6,7 @@
    :caption: 各种碎片化的设计想法
    :name: sec-game0-gameplayideas
 
+   gameplay-flow
    2D-view
    room-map
    char-skill
@@ -17,4 +18,5 @@
    battle-experience5-detail
    demo-design
    battle-sys-d
+   battlefield-env
 ```

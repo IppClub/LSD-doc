@@ -21,3 +21,63 @@
 |学员专业|情报（Intel）|
 |立绘|![余梓绛（立绘）](/img/figure/yuzijiang.png)<br>*画师：蓂*|
 |文案|瑾|
+
+<h2>附录 - 余梓绛喜欢引用的IT语录</h2>
+
+&emsp;&emsp;应当知道，任何一位受过职业道德训练的软件工程师都不会同意写一个“摧毁巴格达  DestroyBaghdad”这样的函数。相反，基本的职业道德要求他写一个“摧毁城市 DestroyCity”的函数，“巴格达 Baghdad”是一个参数。(Nathaniel S Borenstein)
+
+&emsp;&emsp;只有两种计算机语言：一些语言天天挨骂，另外一些没有人用。(Bjarne Stroustrup)
+
+&emsp;&emsp;数组下标应该从0开始还是从1开始？我的提议是做个折中，用0.5。我想，把它否决之前他们都没有仔细考虑考虑。(Stan Kelly-Bootle)
+
+&emsp;&emsp;黑魔法编程：程序员们知道有些事情没有用，但是无论如何他们还是会去试一试，有时候这些事情还真管用了，比如说把所有东西重新编译一遍。(Karl Lehenbauer)
+
+&emsp;&emsp;计算机语言就好像在公园里漫步一样，我指的是侏罗纪公园。(Larry Wall)
+
+&emsp;&emsp;即使在餐巾上涂画也算是计算机语言，XML都不能算是其中之一。(Charles Simonyi)
+
+&emsp;&emsp;使用TSO就想把死鲸鱼在沙滩上踢来踢去一样。(Stephen C Johnson)
+
+&emsp;&emsp;面向对象的模型使得我们可以用聚少成多的方法来写程序。这通常是说，它提供了一种用结构化的方法写出烂面条般程序的方法。
+
+&emsp;&emsp;重用别人写的程序就像从别人的故事里面挑出句子然后凑成一篇杂志上的文章。 (Bob Frankston)
+
+&emsp;&emsp;（HTML里面的BLINK 标签）是一个玩笑，好不好？要是我们知道还有人使用它，我们就不会写它了。(Mark Andreessen)
+
+&emsp;&emsp;软件就像性一样。不要钱的时候更好。(Linus Torvalds)
+
+&emsp;&emsp;我有一个可以运行的编译器，没人愿意碰它。他们告诉我电脑只能做算术。--Rear Admiral Grace Hopper
+
+&emsp;&emsp;如果你思虑不周，你可能会认为编程仅仅是敲入一行行的程序语句而已 -- Ward Cunningham
+
+&emsp;&emsp;一种未包含所有东西的语言实际上比那些包含了的更容易使用。 -- Dennis M Ritchie
+
+&emsp;&emsp;提倡自然语言编程的那些工作必然彻底失败。 -- Edsger Dijkstra
+
+&emsp;&emsp;指针就像跳转一样，疯狂的从数据结构之间到处指来指去。在高级语言里面引入指针是个退步。我们可能永远无法从这一失败之中恢复过来。-- Charles Hoare
+
+&emsp;&emsp;首先学习计算机科学和那些理论，然后摸索出你自己的编程风格，然后把那些都忘掉，乱来就行了。 -- George Carrette
+
+&emsp;&emsp;我担心新的面向对象系统会遭到LISP相似的命运。他们可以做很多事情，但是过于复杂的类的阶层的重量会把他们压塌。 -- Bill Joy
+
+&emsp;&emsp;如果我们要数代码的行数，我们不该把他们当成生产出来的行数，而是花费掉的行数。--Edsger Dijkstra
+
+&emsp;&emsp;你可以拥有高质量的软件，也可以拥有指针运算，但两者不可兼得。-- Bertrand Meyer
+
+&emsp;&emsp;语法，小伙子。它已经被重新授予共和国里最高的地位。 -- John Steinbeck
+
+&emsp;&emsp;你真的确定无误的认为，那些铃铛和汽笛，所谓的编程语言里那些美妙的特性，是解决方案的一部分而不是问题的一部分? -- Edsger Dijkstra
+
+&emsp;&emsp;汝切不可跟随NULL指针前行，因混沌狂乱待汝于彼端。（注：此处模仿圣经十诫语气）--Henry Spencer
+
+&emsp;&emsp;我觉得传统语言是给鸟类使用的。他们仅仅是冯诺依曼计算机的延伸，他们把鼻子埋藏在字和地址的泥土之中，还做了很多同样傻的事。我们从编程之中学到了这些傻事，又把他们放进了计算机语言，放进了Fortran，放进了PL/1，放进了几乎所有语言之中。--John Backus
+
+&emsp;&emsp;在人类的阶层之中，写代码处在高于盗墓，但是低于管理的某处。(Gerald Weinberg)
+
+&emsp;&emsp;如果程序员模拟一个结构比编译器实现这个结构还快，那这个编译器写的可够烂的。 (Guy Steele)
+
+&emsp;&emsp;阶级（class)斗争，一些阶级胜利了，一些阶级消灭了。(Mao Zedong)
+
+&emsp;&emsp;类,可以分为三种：一种不工作的，一种出错的，还有一种找不到了的。(Russell Baker)
+
+&emsp;&emsp;内存就像高潮，真的比虚拟的好得多。(Seymour Cray)

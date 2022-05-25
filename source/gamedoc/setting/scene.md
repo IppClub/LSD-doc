@@ -8,7 +8,7 @@
 &emsp;&emsp;主角作为教官服役的幽兰草军事学院（幽兰草意喻有才能的人在不为人知的环境里也会默默努力影响改变着世界，从不为自己的处境而哀叹）位于”人类之笼“的地下城市边缘。该军事学院设施主要包括指挥所，模拟训练场、后勤基地、学院宿舍和备战室等多个室内建筑场所。主角和学员经常活动的区域主要是备战室和训练场。按照学院的要求，学员们除了休息时间和参与训练的时间以外，都应该尽量出现在备战室，随时准备接收指挥所安排的战斗任务，以及接收同时作为战场指挥官的学院教官下达的指示。
 
 ```{eval-rst}
-.. figure:: /img/scene/base-launch-d.jpg
+.. figure:: /img/design/base/base-launch-d.jpg
    :align: center
    :alt: 军事学院备战室
 
@@ -16,7 +16,7 @@
 ```
 
 ```{eval-rst}
-.. figure:: /img/scene/base-training-d1.jpg
+.. figure:: /img/design/base/base-training-d1.jpg
    :align: center
    :alt: 军事学院训练室
 
@@ -24,7 +24,7 @@
 ```
 
 ```{eval-rst}
-.. figure:: /img/scene/base-training-d.jpg
+.. figure:: /img/design/base/base-training-d.jpg
    :align: center
    :alt: 军事学院训练室
 
@@ -32,7 +32,7 @@
 ```
 
 ```{eval-rst}
-.. figure:: /img/scene/base-hd-d.jpg
+.. figure:: /img/design/base/base-hd-d.jpg
    :align: center
    :alt: 军事学院指挥室
 
@@ -40,7 +40,7 @@
 ```
 
 ```{eval-rst}
-.. figure:: /img/scene/base-rest-d.jpg
+.. figure:: /img/design/base/base-rest-d.jpg
    :align: center
    :alt: 军事学院休息室
 
@@ -48,7 +48,7 @@
 ```
 
 ```{eval-rst}
-.. figure:: /img/scene/base-rest-d1.jpg
+.. figure:: /img/design/base/base-rest-d1.jpg
    :align: center
    :alt: 军事学院休息室
 
@@ -56,7 +56,7 @@
 ```
 
 ```{eval-rst}
-.. figure:: /img/scene/base-rd-d.jpg
+.. figure:: /img/design/base/base-rd-d.jpg
    :align: center
    :alt: 军事学院研发室
 
@@ -64,7 +64,7 @@
 ```
 
 ```{eval-rst}
-.. figure:: /img/scene/base-design.jpg
+.. figure:: /img/design/base/base-design.jpg
    :align: center
    :alt: 军事学院整体结构
 
