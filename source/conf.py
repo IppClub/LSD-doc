@@ -28,7 +28,8 @@ author = '灵数奇缘社区'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'myst_parser'
+    'myst_parser',
+    'sphinx-favicon',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -72,7 +73,36 @@ html_theme_options = {
 
 html_logo = "img/logo.png"
 
+html_favicon = '_static/favicon/favicon.ico'
+
 myst_enable_extensions = [
     "html_image",
     "tasklist",
 ]
+
+favicons = [
+   {
+      "sizes": "16x16",
+      "href": "/_static/favicon/favicon-16x16.png",
+   },
+   {
+      "sizes": "32x32",
+      "href": "/_static/favicon/favicon-32x32.png",
+   },
+   {
+      "rel": "apple-touch-icon",
+      "sizes": "180x180",
+      "href": "/_static/favicon/apple-touch-icon-180x180.png",
+   },
+   {
+      "rel": "android-chrome",
+      "sizes": "192x192",
+      "href": "/_static/favicon/android-chrome-192x192.png",
+   },
+   {
+      "rel": "android-chrome",
+      "sizes": "512x512",
+      "href": "/_static/favicon/android-chrome-512x512.png",
+   },
+]
+

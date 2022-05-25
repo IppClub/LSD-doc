@@ -1,5 +1,14 @@
 # 制作人于灵的介绍
 
+```{eval-rst}
+.. figure:: /img/figure/v-producer.jpg
+   :align: center
+   :width: 400
+   :alt: 于灵（休息日模式）
+
+   于灵（休息日模式）
+```
+
 &emsp;&emsp;28岁，云南临沧傣族，⼥性，居住在江西新余市，从事⾦融⾏业转游戏⾏业，喜欢做⼀个以电⼦游戏为载体的故事讲述者。
 
 &emsp;&emsp;计算机专业毕业。

@@ -1,6 +1,12 @@
 灵数奇缘项目白皮书
 ==================
 
+.. figure:: /img/intro/luv-sense-digital.png
+   :align: center
+   :alt: LUV·SENSE·DIGITAL
+
+----
+
 .. toctree::
    :maxdepth: 1
    :caption: 了解《灵数奇缘》
@@ -32,7 +38,7 @@
    :name: sec-community
 
    community/activity
-   community/assets
+   community/open-assets
    community/licencing
    community/funding
    community/contributors
