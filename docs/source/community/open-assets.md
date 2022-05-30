@@ -20,21 +20,24 @@
 * **2、Dorothy-SSR游戏引擎**  
 地址：https://github.com/pigpigyyy/Dorothy-SSR.git
 ```{admonition} 备份
-https://gitee.com/pig/Dorothy-SSR.git  
-https://gitlab.com/project-lsd/Dorothy-SSR.git  
-https://e.coding.net/project-lsd/dorothy-ssr/Dorothy-SSR.git
+&emsp;&emsp;https://gitee.com/pig/Dorothy-SSR.git  
+&emsp;&emsp;https://gitlab.com/project-lsd/Dorothy-SSR.git  
+&emsp;&emsp;https://e.coding.net/project-lsd/dorothy-ssr/Dorothy-SSR.git
 ```
 
 * **3、Yuescript编程语言**  
 地址：https://github.com/pigpigyyy/Yuescript.git
 ```{admonition} 备份
-https://gitee.com/pig/Yuescript.git  
-https://gitlab.com/project-lsd/Yuescript.git  
-https://e.coding.net/project-lsd/Yuescript/Yuescript.git
+&emsp;&emsp;https://gitee.com/pig/Yuescript.git  
+&emsp;&emsp;https://gitlab.com/project-lsd/Yuescript.git  
+&emsp;&emsp;https://e.coding.net/project-lsd/Yuescript/Yuescript.git
 ```
 
 * **4、《灵数奇缘》文档**  
-地址：https://e.coding.net/project-lsd/lsd/lsd-doc.git
+地址：https://github.com/Luv-Sense-Digital/doc.git
+```{admonition} 备份
+&emsp;&emsp;https://e.coding.net/project-lsd/lsd/lsd-doc.git
+```
 
 ## 三、《灵数奇缘》NFT
 

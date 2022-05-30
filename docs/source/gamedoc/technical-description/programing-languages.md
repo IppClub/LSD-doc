@@ -20,11 +20,11 @@
 ### 项目地址
 
 &emsp;&emsp;https://github.com/pigpigyyy/Yuescript.git  
-
-&emsp;&emsp;备份：  
+```{admonition} 备份
 &emsp;&emsp;https://gitee.com/pig/Yuescript.git  
 &emsp;&emsp;https://gitlab.com/project-lsd/Yuescript.git  
 &emsp;&emsp;https://e.coding.net/project-lsd/Yuescript/Yuescript.git
+```
 
 ## Teal
 
