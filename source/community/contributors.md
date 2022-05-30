@@ -37,8 +37,8 @@
 
 ### 概念设计
 
-* 周大西
-* Arthas.W
+* [周大西](https://weibo.com/u/5062845768)
+* [Arthas.W](https://www.gcores.com/users/363525)
 
 ### 画师
 
@@ -49,8 +49,8 @@
 * 丁丁
 * 桀
 * 玉徽
-* 酚酞遇茶变红色
-* 战国Donuts
+* [酚酞遇茶变红色](https://weibo.com/u/5156432595)
+* [战国Donuts](https://weibo.com/u/5885613745)
 * 软糖工作室
 
 ### 美术管理
@@ -71,8 +71,8 @@
 
 ## 配乐
 
-* Ceezy
-* AnSue
+* [Ceezy](https://music.163.com/#/artist?id=2313)
+* [AnSue](https://music.163.com/#/artist?id=32892057)
 
 ## 程序
 

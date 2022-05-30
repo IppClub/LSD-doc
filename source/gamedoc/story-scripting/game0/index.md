@@ -3,7 +3,7 @@
 ```{eval-rst}
 .. toctree::
    :maxdepth: 1
-   :caption: 游戏文案
+   :caption: 剧本文案
    :name: sec-game0-story-scripting
 
    game-settings

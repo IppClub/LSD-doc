@@ -1,7 +1,7 @@
 灵数奇缘项目白皮书
 ==================
 
-.. figure:: /img/intro/luv-sense-digital.png
+.. figure:: /img/intro/luv-sense-digital.jpg
    :align: center
    :alt: LUV·SENSE·DIGITAL
 
