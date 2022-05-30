@@ -4,9 +4,14 @@
 &emsp;&emsp;项目除了程序以外的资产使用授权参见[这里](/community/licencing)。欢迎自由下载和查看！
 ```
 
-## 一、《灵数奇缘》开源程序
+## 一、《灵数奇缘》开放素材
 
-&emsp;&emsp;程序项目里的程序代码授权均为MIT。
+&emsp;&emsp;美术、动画、配乐素材以及部分素材源文件。  
+&emsp;&emsp;腾讯微云：https://share.weiyun.com/UoLPGNGt
+
+## 二、《灵数奇缘》开源项目
+
+&emsp;&emsp;开源项目里的程序代码授权均为MIT。
 
 * **1、Game 0游戏工程**  
 地址：https://e.coding.net/project-lsd/lsd/game.git
@@ -29,14 +34,9 @@ https://e.coding.net/project-lsd/Yuescript/Yuescript.git
 ```
 
 * **4、《灵数奇缘》文档**  
+地址：https://e.coding.net/project-lsd/lsd/lsd-doc.git
 
-
-## 二、《灵数奇缘》开放素材
-
-&emsp;&emsp;美术、动画、配乐素材以及部分素材源文件。  
-&emsp;&emsp;腾讯微云：https://share.weiyun.com/UoLPGNGt
-
-## 二、《灵数奇缘》NFT
+## 三、《灵数奇缘》NFT
 
 &emsp;&emsp;Logo：[Opensea - Luv Sense Digital](https://opensea.io/collection/luv-sense-digital)  
 &emsp;&emsp;头像：[Opensea - Luv Sense Digital Portrait](https://opensea.io/collection/luv-sense-digital-portrait)  
