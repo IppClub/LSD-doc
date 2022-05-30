@@ -8,5 +8,5 @@
 > pip install sphinx-autobuild
 > pip install myst-parser
 > pip install sphinx-favicon
-> sphinx-autobuild source build/html
+> sphinx-autobuild docs/source build/html
 ```
