@@ -83,26 +83,26 @@ myst_enable_extensions = [
 favicons = [
    {
       "sizes": "16x16",
-      "href": "/_static/favicon/favicon-16x16.png",
+      "href": "_static/favicon/favicon-16x16.png",
    },
    {
       "sizes": "32x32",
-      "href": "/_static/favicon/favicon-32x32.png",
+      "href": "_static/favicon/favicon-32x32.png",
    },
    {
       "rel": "apple-touch-icon",
       "sizes": "180x180",
-      "href": "/_static/favicon/apple-touch-icon-180x180.png",
+      "href": "_static/favicon/apple-touch-icon-180x180.png",
    },
    {
       "rel": "android-chrome",
       "sizes": "192x192",
-      "href": "/_static/favicon/android-chrome-192x192.png",
+      "href": "_static/favicon/android-chrome-192x192.png",
    },
    {
       "rel": "android-chrome",
       "sizes": "512x512",
-      "href": "/_static/favicon/android-chrome-512x512.png",
+      "href": "_static/favicon/android-chrome-512x512.png",
    },
 ]
 

@@ -13,7 +13,7 @@
 * 小白
 * 嗲
 * BackSlzeep
-* 包包子
+* [包包子](https://t.me/thisisbadBao)
 * Jilliana
 * 天琴座恒星
 * 徐夏雨
@@ -51,7 +51,7 @@
 * 玉徽
 * [酚酞遇茶变红色](https://weibo.com/u/5156432595)
 * [战国Donuts](https://weibo.com/u/5885613745)
-* 软糖工作室
+* 软糖工作室（微信：SSruantang）
 
 ### 美术管理
 
@@ -77,7 +77,7 @@
 ## 程序
 
 * 瑾
-* 包包子
+* [包包子](https://t.me/thisisbadBao)
 
 ## 商务
 
@@ -86,5 +86,5 @@
 ## 项目管理
 
 * 宗辉
-* 包包子
+* [包包子](https://t.me/thisisbadBao)
 * 瑾
