@@ -2,7 +2,7 @@
 
 ## 一、Roadmap
 
-&emsp;&emsp;项目的**Roadmap**：[在这里](https://trello.com/b/Pu3B6ofC)。
+&emsp;&emsp;项目的Roadmap：[在这里](https://trello.com/b/Pu3B6ofC)。
 
 ```{warning}
 &emsp;&emsp;但是计划赶不上变化。
