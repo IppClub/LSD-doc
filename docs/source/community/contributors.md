@@ -26,7 +26,7 @@
 		<br/><sub><b>BackSlzeep</b></sub>
 	</div>
 	<div align="center" style="padding:10px;display:inline-block;">
-		<a href="https://t.me/thisisbadBao">
+		<a href="https://github.com/thisisbadBao">
 			<img src="/_static/contributor/包包子.jpg" width="70px;" alt="" style="border-radius:50%;"/>
 			<br/><sub><b>包包子</b></sub>
 		</a>
