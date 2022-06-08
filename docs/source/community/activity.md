@@ -2,6 +2,8 @@
 
 ## 一、欢迎加入《灵数奇缘》社区
 
+![L·S·D People](/img/intro/l-s-d-people.jpg)
+
 &emsp;&emsp;QQ群号：645348178  
 &emsp;&emsp;灵数奇缘DAO讨论： [![discord](https://img.shields.io/discord/980651218395349013?logo=discord)](https://discord.gg/TDD9jDaP)  
 &emsp;&emsp;加入社区初期共创团队：请联系微信pigpigyyy
