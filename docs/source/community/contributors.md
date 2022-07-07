@@ -126,8 +126,10 @@
 		</a>
 	</div>
 	<div align="center" style="padding:10px;display:inline-block;">
-		<img src="/_static/contributor/Verjil.jpg" width="70px;" alt="" style="border-radius:50%;"/>
-		<br/><sub><b>Verjil</b></sub>
+		<a href="/community/contributors.html#id15">
+			<img src="/_static/contributor/Verjil.jpg" width="70px;" alt="" style="border-radius:50%;"/>
+			<br/><sub><b>Verjil</b></sub>
+		</a>
 	</div>
 	<div align="center" style="padding:10px;display:inline-block;">
 		<img src="/_static/contributor/影瞳.jpg" width="70px;" alt="" style="border-radius:50%;"/>
@@ -240,8 +242,8 @@
 * 包包子
 * 瑾
 
-
 ## 联系方式
 
 * 软糖工作室（微信：SSruantang）
 * 宗辉（微信：qingkongbilan）
+* Verjil（微信：Verjil0）

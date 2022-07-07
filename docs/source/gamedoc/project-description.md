@@ -2,6 +2,8 @@
 
 ## 一、项目名称
 
+<img src="/img/intro/l-s-q-y.jpg" alt="灵数奇缘" width="400px">
+
 &emsp;&emsp;中文：灵数奇缘  
 &emsp;&emsp;意为：灵魂 + 数据 + 游戏人物之间的感情连接
 

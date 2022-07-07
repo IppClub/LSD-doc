@@ -1,3 +1,4 @@
+
 # 故事
 ## 世界观背景
 
@@ -19,7 +20,7 @@
 
 ```{eval-rst}
 .. figure:: /img/org/bank.jpg
-   :height: 500px
+   :width: 360px
    :align: center
    :alt: Bank of Data
 
@@ -32,7 +33,7 @@
 
 ```{eval-rst}
 .. figure:: /img/org/gamecorp.jpg
-   :height: 500px
+   :width: 360px
    :align: center
    :alt: Game Corp
 
@@ -44,7 +45,7 @@
 
 ```{eval-rst}
 .. figure:: /img/org/solutioncorp.jpg
-   :height: 500px
+   :width: 360px
    :align: center
    :alt: Solution Corp
 
@@ -56,7 +57,7 @@
 
 ```{eval-rst}
 .. figure:: /img/org/chugou.jpg
-   :height: 500px
+   :width: 360px
    :align: center
    :alt: 刍狗
 
@@ -68,7 +69,7 @@
 
 ```{eval-rst}
 .. figure:: /img/org/offnet.jpg
-   :height: 500px
+   :width: 360px
    :align: center
    :alt: Off Net Heaven
 
@@ -80,7 +81,7 @@
 
 ```{eval-rst}
 .. figure:: /img/org/youlan.jpg
-   :height: 500px
+   :width: 360px
    :align: center
    :alt: 幽兰草军事学园
 
@@ -93,7 +94,7 @@
 
 ```{eval-rst}
 .. figure:: /img/org/youlan0.png
-   :height: 400px
+   :width: 400px
    :align: center
    :alt: 幽兰草军事学园（早期Logo）
 
