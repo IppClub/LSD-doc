@@ -21,7 +21,6 @@
 地址：https://github.com/pigpigyyy/Dorothy-SSR.git
 ```{admonition} 备份
 &emsp;&emsp;https://gitee.com/pig/Dorothy-SSR.git  
-&emsp;&emsp;https://gitlab.com/project-lsd/Dorothy-SSR.git  
 &emsp;&emsp;https://e.coding.net/project-lsd/dorothy-ssr/Dorothy-SSR.git
 ```
 
@@ -29,7 +28,6 @@
 地址：https://github.com/pigpigyyy/Yuescript.git
 ```{admonition} 备份
 &emsp;&emsp;https://gitee.com/pig/Yuescript.git  
-&emsp;&emsp;https://gitlab.com/project-lsd/Yuescript.git  
 &emsp;&emsp;https://e.coding.net/project-lsd/Yuescript/Yuescript.git
 ```
 
