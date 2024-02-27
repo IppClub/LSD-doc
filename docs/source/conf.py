@@ -29,7 +29,6 @@ author = '灵数奇缘社区'
 # ones.
 extensions = [
     'myst_parser',
-    'sphinx-favicon',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
