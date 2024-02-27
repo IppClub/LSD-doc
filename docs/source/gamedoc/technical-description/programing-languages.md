@@ -21,17 +21,16 @@
 
 &emsp;&emsp;https://github.com/pigpigyyy/Yuescript.git  
 ```{admonition} 备份
-&emsp;&emsp;https://gitee.com/pig/Yuescript.git  
-&emsp;&emsp;https://e.coding.net/project-lsd/Yuescript/Yuescript.git
+&emsp;&emsp;https://gitee.com/pig/Yuescript.git
 ```
 
 ## Teal
 
-&emsp;&emsp;[Teal](https://github.com/pigpigyyy/tl)是一个给Lua加上了静态类型检查功能的脚本语言。定位相当于Typescript对Javascript语言做的功能扩展。Dorothy-SSR引擎中内置了一个为适应C++ OOP接口导出而做了稍做修改（RP未被接受）的Teal编译器分支，修改的版本见地址：[Teal - Dora](https://github.com/pigpigyyy/tl/tree/dora)。
+&emsp;&emsp;[Teal](https://github.com/pigpigyyy/tl)是一个给Lua加上了静态类型检查功能的脚本语言。定位相当于Typescript对Javascript语言做的功能扩展。Dora SSR引擎中内置了一个为适应C++ OOP接口导出而做了稍做修改（RP未被接受）的Teal编译器分支，修改的版本见地址：[Teal - Dora](https://github.com/pigpigyyy/tl/tree/dora)。
 
 ## Lua
 
-&emsp;&emsp;[Lua](http://www.lua.org)是Dorothy-SSR引擎核心支持的编程语言。目前在使用Lua 5.4的版本。
+&emsp;&emsp;[Lua](http://www.lua.org)是Dora SSR引擎核心支持的编程语言。目前在使用Lua 5.4的版本。
 
 
 ## C++
