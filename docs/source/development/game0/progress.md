@@ -2,9 +2,9 @@
 
 更新：2026-10-10。**本轮固定任务已完成；整体游戏未验收。** 本轮边界见[收尾记录](round-closure-2026-10-09.md)。 保留三个章节、原任务、角色和全部既有结局；狐狸不训练。交付范围见[全内容可玩版方案](mvp-playable-plan.md)。
 
-当前源码追加验证：[性能与降级定向报告](performance-degradation-2026-10-10.md)。工厂战斗3170帧P95为16.67ms；通知超时误记完成已修复，结算准备失败重试及SQL通过。证据属于源码，未进入下列候选包。
+当前源码追加验证：[性能与降级定向报告](performance-degradation-2026-10-10.md)。工厂战斗3170帧P95为16.67ms；通知超时误记完成已修复，结算准备失败重试及SQL通过。证据属于源码。原始证据和全部构建候选现已按要求清理，仅保留精简文本结论；下列候选为历史记录，交付需重建。
 
-## 当前候选
+## 历史候选（已清理）
 
 `2026-10-09-full-content-head-aim-candidate`，状态`PACKAGED_NOT_ACCEPTED`。2780包文件、1165运行资源、410 Script Lua、81 UI Lua；严格签名通过。相对上一中断整合包仅修改`Combat.PartAim`，运行路径无增删。
 
@@ -32,4 +32,4 @@
 
 [当前验收](acceptance-current.md) · [候选包](candidate-package.md) · [任务接入矩阵](battle-integration-matrix.md) · [Boss专项](enemy-boss-iteration.md) · [原结局](ending-paths.md) · [历史索引](progress-history.md)
 
-本次压缩前逐字全文存于游戏`Docs/evidence/2026-10-09/interruption-consumer-integration/progress-before-concision.md`；原专项与失败记录保留在当前验收及证据归档。网站未发布，未提交或推送，正式`lsd.db`保持。
+原始运行证据和进度快照已清理；原专项与失败记录保留在当前验收及证据归档。网站未发布，未提交或推送，正式`lsd.db`保持。
