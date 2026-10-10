@@ -31,6 +31,7 @@
    gamedoc/music-sound
    gamedoc/art-style
    gamedoc/technical-description/index
+   development/game0/index
 
 .. toctree::
    :maxdepth: 1
@@ -42,4 +43,3 @@
    community/licencing
    community/funding
    community/contributors
-
